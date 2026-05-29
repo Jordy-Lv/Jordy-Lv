@@ -5,6 +5,8 @@
 ![Backend Engineer](https://img.shields.io/badge/BACKEND%20ENGINEER-2b2b2b?style=for-the-badge)
 ![Java 21 · Spring Boot 3](https://img.shields.io/badge/JAVA%2021%20•%20SPRING%20BOOT%203-007ec6?style=for-the-badge)
 
+_Construyendo APIs REST limpias, seguras y mantenibles con Java y Spring Boot._
+
 [![Email](https://img.shields.io/badge/Email-pardopajaroyordy@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pardopajaroyordy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yordypardo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yordypardo/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat&logo=github&logoColor=white)](https://github.com/Jordy-Lv?tab=repositories)

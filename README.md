@@ -76,9 +76,3 @@ Arquitectura por capas con DTOs y mapeo vía MapStruct.
 - ✅ Roles backend (**Java / Spring Boot**)
 - ✅ Desarrollo de APIs REST y microservicios
 - ✅ Prácticas / posiciones junior
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordy-Lv&show_icons=true&hide_border=true)
-
-</div>

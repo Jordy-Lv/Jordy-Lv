@@ -75,4 +75,4 @@ Arquitectura por capas con DTOs y mapeo vía MapStruct.
 
 - ✅ Roles backend (**Java / Spring Boot**)
 - ✅ Desarrollo de APIs REST y microservicios
-- ✅ Prácticas / posiciones junior
+- ✅ Abierto a posiciones Junior.

@@ -19,10 +19,37 @@ _Construyendo APIs REST limpias, seguras y mantenibles con Java y Spring Boot._
 
 ## 👋 Sobre mí
 
-Soy desarrollador backend enfocado en **Java 21** y **Spring Boot 3**, orientado a construir
-servicios **seguros, escalables y mantenibles**. Disfruto diseñar APIs REST limpias, implementar
-seguridad robusta con **Spring Security + JWT** y entregar sistemas listos para producción con
-**MySQL** y **Docker**.
+Desarrollador backend enfocado en **Java 21** y **Spring Boot 3**. Construyo APIs REST
+seguras y mantenibles aplicando **arquitectura por capas**, principios **SOLID** y buenas
+prácticas, con seguridad basada en **Spring Security + JWT**. Actualmente refuerzo mis
+fundamentos resolviendo retos de lógica y diseñando proyectos backend listos para producción.
+
+---
+
+## 🚀 Proyectos destacados
+
+### 🗓️ Plataforma SaaS de Reservas (multi-tenant)
+API REST donde varios negocios (consultorios, salones, centros deportivos) gestionan sus
+servicios, horarios y reservas desde una sola aplicación, con los datos de cada negocio
+**aislados por tenant**. El aislamiento es automático: un filtro de Hibernate activado por
+petición restringe todas las consultas al `tenant_id` del JWT, sin repetir el filtro en cada
+repositorio. Incluye 4 roles, access/refresh tokens y agenda por rango de fechas.
+
+**Stack:** Java 17 · Spring Boot 3.5 · Spring Security + JWT · JPA/Hibernate · MySQL · Docker
+
+🔗 [Ver repositorio](https://github.com/Jordy-Lv/reservas-saas)
+
+### 🛒 E-Commerce API
+API REST de tienda online: gestión de productos, categorías, órdenes de compra y direcciones
+de envío, con control automático de inventario y ciclo de vida de cada orden. Autenticación
+JWT con contraseñas encriptadas en BCrypt y roles diferenciados (administrador / cliente).
+Arquitectura por capas con DTOs y mapeo vía MapStruct.
+
+**Stack:** Java 21 · Spring Boot 3.3 · Spring Security + JWT · JPA/Hibernate · MySQL 8 · MapStruct · Swagger · JUnit 5 + Mockito · Docker
+
+🔗 [Ver repositorio](https://github.com/Jordy-Lv/ecommerce-api)
+
+---
 
 ## 💼 Tech Stack
 
@@ -30,13 +57,28 @@ seguridad robusta con **Spring Security + JWT** y entregar sistemas listos para 
 - 🌱 **Spring Boot 3** (Spring MVC, Spring Data JPA / Hibernate)
 - 🔐 **Spring Security + JWT**
 - 📘 **Swagger / OpenAPI**
-- 🗄️ **MySQL**
+- 🗄️ **MySQL** / **PostgreSQL**
 - 🐳 **Docker**
 - 🧰 **Maven**
 - ✅ **JUnit + Mockito**
+
+---
+
+## 🌱 Actualmente
+
+- Profundizando en testing (JUnit 5 + Mockito) y diseño de microservicios
+- Resolviendo retos de lógica y algoritmos en Java
+
+---
 
 ## 🤝 Abierto a oportunidades
 
 - ✅ Roles backend (**Java / Spring Boot**)
 - ✅ Desarrollo de APIs REST y microservicios
-- ✅ Modalidad remota
+- ✅ Prácticas / posiciones junior
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordy-Lv&show_icons=true&hide_border=true)
+
+</div>

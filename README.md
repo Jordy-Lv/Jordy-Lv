@@ -21,6 +21,12 @@ Desarrollador backend con Java y Spring Boot, enfocado en sistemas distribuidos 
 
 ---
 
+## Actualmente
+
+Trabajo como SRE (Site Reliability Engineer) en SETI SAS.
+
+---
+
 ## Stack
 
 **Lenguaje y framework:** Java · Spring Boot · Spring MVC · Spring WebFlux · Spring Data JPA · Spring Security · Spring Cloud (Gateway, Config) · Hibernate · MapStruct · Lombok

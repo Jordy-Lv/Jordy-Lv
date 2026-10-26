@@ -2,7 +2,7 @@
 
 # Yordy Pardo Pajaro
 
-![Backend Engineer](https://img.shields.io/badge/BACKEND%20ENGINEER-2b2b2b?style=for-the-badge)
+![SRE · Backend Engineer](https://img.shields.io/badge/SRE%20•%20BACKEND%20ENGINEER-2b2b2b?style=for-the-badge)
 ![Java · Spring Boot](https://img.shields.io/badge/JAVA%20•%20SPRING%20BOOT-007ec6?style=for-the-badge)
 
 [![Email](https://img.shields.io/badge/Email-pardopajaroyordy@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pardopajaroyordy@gmail.com)
@@ -17,38 +17,32 @@ Cartagena, Bolívar, Colombia
 
 ## Sobre mí
 
-Desarrollador backend con Java y Spring Boot, enfocado en sistemas distribuidos y arquitecturas orientadas a eventos. Diseño microservicios con arquitectura hexagonal y DDD, con el dominio aislado de la infraestructura. Me ocupo también de la parte operativa: pruebas, pipelines de CI/CD, despliegue en la nube y observabilidad.
+Ingeniero backend y SRE con Java y Spring Boot. Diseño microservicios con arquitectura hexagonal y me ocupo de que corran bien en producción: despliegue, monitoreo y observabilidad.
 
 ---
 
 ## Actualmente
 
-Trabajo como SRE (Site Reliability Engineer) en SETI SAS.
+Trabajo como SRE en SETI SAS.
 
 ---
 
 ## Stack
 
-**Lenguaje y framework:** Java · Spring Boot · Spring MVC · Spring WebFlux · Spring Data JPA · Spring Security · Spring Cloud (Gateway, Config) · Hibernate · MapStruct · Lombok
+**Backend:** Java · Spring Boot · Spring Security · Spring Data JPA · WebFlux · Hibernate
 
-**Arquitectura:** Microservicios · Arquitectura hexagonal · DDD · CQRS · Event-driven · SOLID · REST · OpenAPI/Swagger
+**Arquitectura:** Microservicios · Arquitectura hexagonal · REST · Kafka
 
-**Mensajería:** Kafka · RabbitMQ · AWS SQS/SNS
+**Datos:** PostgreSQL · MySQL · Redis
 
-**Seguridad:** OAuth2 · JWT · Keycloak
+**Observabilidad:** Grafana · Prometheus · ELK
 
-**Datos:** PostgreSQL · MySQL · MongoDB · Redis · DynamoDB · Flyway
+**Cloud y DevOps:** AWS · Docker · Kubernetes · Terraform · GitHub Actions · Git
 
-**Cloud (AWS):** EC2 · ECS/EKS · Lambda · S3 · RDS · API Gateway · CloudWatch · IAM
-
-**Observabilidad:** Grafana · Prometheus · Micrometer · ELK
-
-**Testing:** JUnit 5 · Mockito · Testcontainers · WireMock
-
-**DevOps:** Docker · Kubernetes · Terraform · GitHub Actions · Maven · Git
+**Testing:** JUnit 5 · Mockito · Testcontainers
 
 ---
 
 ## Abierto a oportunidades
 
-Roles backend con Java y Spring Boot: APIs, microservicios y sistemas basados en eventos.
+Roles de SRE y backend con Java y Spring Boot.

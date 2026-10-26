@@ -17,7 +17,7 @@ Cartagena, Bolívar, Colombia
 
 ## Sobre mí
 
-Ingeniero backend y SRE con Java y Spring Boot. Diseño microservicios con arquitectura hexagonal y me ocupo de que corran bien en producción: despliegue, monitoreo y observabilidad.
+Ingeniero backend y SRE. Desarrollo microservicios en Java y Spring Boot con arquitectura hexagonal, y me encargo de monitorearlos y mantenerlos estables.
 
 ---
 
